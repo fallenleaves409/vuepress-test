@@ -1,8 +1,8 @@
 module.exports = {
-    base: '/vuepress test/',
+    base: '/vuepress-test/',
     title: 'my test',
     description: 'vuepress 测试',
-    dest: './pulic',
+    dest: './public',
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
